@@ -33,7 +33,7 @@ int main()
         cout << endl;
     }
 
-
+    // Just change the row with column
     cout << endl << "Transpose of Matrix: " << endl;
     for (int i = 0; i < n; i++)
     {
